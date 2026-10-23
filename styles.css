@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.brand-subtitle {
+    font-size: 20px;
+
+}
+
+h1, .brand-subtitle {
+    text-align: center;
+}
