@@ -4,11 +4,43 @@ A minimalist, editorial, and responsive sunset-themed landing page built for the
 
 ## 📑 Table of Contents
 
-1. [Project Overview](#-project-overview)
-2. [Content & Copywriting Strategy](#%EF%B8%8F-content--copywriting-strategy)
-3. [Tech Stack](#%EF%B8%8F-tech-stack)
-4. [File Structure](#-file-structure)
-5. [Educational Disclaimer](#%EF%B8%8F-educational-disclaimer)
+1. [Key Features](#-features)
+2. [Preview & Screenshots](#-preview--screenshots)
+3. [Project Overview](#-project-overview)
+4. [Content & Copywriting Strategy](#%EF%B8%8F-content--copywriting-strategy)
+5. [Tech Stack](#%EF%B8%8F-tech-stack)
+6. [File Structure](#-file-structure)
+7. [Educational Disclaimer](#%EF%B8%8F-educational-disclaimer)
+
+---
+
+## 📸 Preview & Screenshots
+
+### 1. Hero Section (Home)
+![Home Page](assets/Home.png)
+
+### 2. Key Benefits
+![Benefits Section](assets/Benefits.png)
+
+### 3. Interactive Ingredients
+![Ingredients Section](assets/Ingredients.png)
+
+### 4. Application Steps
+![Application Section](assets/Application.png)
+
+### 5. Customer Reviews & Stats
+![Reviews Section](assets/Reviews.png)
+
+### 6. FAQ Accordion
+![FAQ Section](assets/FAQ.png)
+
+---
+
+## 🚀 Features
+* **Editorial Sunset Palette:** High-contrast color scheme utilizing warm off-whites, vibrant sunset oranges, and rich crimson reds.
+* **Interactive Ingredient Switcher:** Dynamic tab system that updates ingredient details on the fly.
+* **Collapsible FAQ Accordion:** Clean, interactive FAQ section built with vanilla JavaScript.
+* **Fully Responsive:** Optimized for mobile, tablet, and desktop viewports.
 
 ---
 
